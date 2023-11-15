@@ -26,7 +26,6 @@ This is a console-based Tic Tac Toe game developed in Java. The project primaril
 ## File Structure
 
 - `TicTacToe.java`: Main Java file containing the game logic.
-- Other Java files may be present if the project is structured into multiple classes.
 
 ## How to Contribute
 
